@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(169, 189, 218);
+}
+.courses{
+    text-align: center;
+}
+.tab{
+    table-layout: fixed;
+}
